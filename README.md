@@ -1,3 +1,3 @@
 # movie_project
 For the college project 
-Author- sabika chhetri
+Author- sabika (my project)
